@@ -3,8 +3,8 @@
 - ✨ Developer.
 - 🌍 Based in São Paulo, Brazil.
 - 🛠 Maintainer of [vscode-markdown-table-formatter](https://github.com/fcrespo82/vscode-markdown-table-formatter/) and [vscode-scretlens](https://github.com/fcrespo82/vscode-secretlens).
-- 💼 Working as a DevOps Engineer and managing some Linux systems.
-- 🛠 Code in Java (mostly @ work), Python, JavaScript, TypeScript and shell scripting.
+- 💼 Working as a DevOps Engineer.
+- 🛠 Code in Java, Python, JavaScript, TypeScript, React and shell scripting.
 - ❤️ Proud father and husband. Love writing software, scripting and everything tech related.
 - 📫 Contact me on: [twitter](https://twitter.com/fcrespo82) · [linkedin](https://www.linkedin.com/in/fcrespo82/) · [email](mailto:fernando82@gmail.com)
 
